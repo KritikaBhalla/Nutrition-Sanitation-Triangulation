@@ -1,7 +1,7 @@
 # Nutrition-Sanitation-Triangulation
 ## Project Overview
 
-This project examines the relationship between sanitation conditions and child nutrition outcomes in India by triangulating data from the National Family Health Survey (NFHS-5) and the NSS-WASH.
+This project examines the relationship between sanitation conditions and child nutrition outcomes in India by triangulating data from the National Family Health Survey (NFHS) and the NSS-WASH.
 
 The analysis focuses on how sanitation-related indicators are associated with two key child nutrition outcomes:
 - Stunting: low height-for-age
@@ -9,8 +9,8 @@ The analysis focuses on how sanitation-related indicators are associated with tw
 
 ## Data Sources
 
-- National Family Health Survey (NFHS-5) 
-- NSS: Drinking Water, Sanitation, Hygiene, and Housing Conditions (WASH); 76th round
+- National Family Health Survey (NFHS) 
+- NSS: Drinking Water, Sanitation, Hygiene, and Housing Conditions (WASH); 
 
 
 ## Methodology
